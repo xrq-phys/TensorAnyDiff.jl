@@ -1,6 +1,8 @@
 TensorAnyDiff
 =============
 
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **Obsolete! Switch to [BliContractor.jl](https://github.com/xrq-phys/BliContractor.jl) for simpler code, better performance, yet full AD support!**
+
 This package is an automatic `numpy.tensordot` and `numpy.einsum`-style wrapper for Julia. It is a continuation of [this Github Gist](https://gist.github.com/xrq-phys/8b6e52f0f371acb0244950f755d7476f).
 
 ## Features
